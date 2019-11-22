@@ -1,4 +1,4 @@
-/* XerXes - Most powerful dos tool - THN (http://www.thehackernews.com) */
+/* XerXes - Most powerful dos tool - THN (Xerxes-DDos by zanyarjamal) */
 
 #include <stdio.h>
 #include <stdlib.h>
